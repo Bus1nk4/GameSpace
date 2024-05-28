@@ -10,6 +10,7 @@
 - Экран победы
 
 ![youWin](https://github.com/Bus1nk4/GameSpace/assets/170882831/eb627a62-02b3-4041-a4ef-44c6f4441f4b)
+- Процесс игры
 
 ![image](https://github.com/Bus1nk4/GameSpace/assets/170882831/e594c471-b0f8-439b-b79c-371836c47dd0)
-- Процесс игры
+
