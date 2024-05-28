@@ -5,6 +5,8 @@
 # 2.Демонстрация
 Состояния игры:
 - Экран поражения
+
 ![youLose](https://github.com/Bus1nk4/GameSpace/assets/170882831/37e95490-276c-4eb7-865c-ed17ec660c12)
 - Экран победы
+
 ![youWin](https://github.com/Bus1nk4/GameSpace/assets/170882831/eb627a62-02b3-4041-a4ef-44c6f4441f4b)
