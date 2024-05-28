@@ -14,3 +14,5 @@
 
 ![image](https://github.com/Bus1nk4/GameSpace/assets/170882831/e594c471-b0f8-439b-b79c-371836c47dd0)
 
+Видео игры:
+Ссылка на YouTube: https://youtu.be/2ia5QIK6iuQ
